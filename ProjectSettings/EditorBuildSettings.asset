@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Izaro Rubio Uribe/Scenes/Scene0.unity
+    guid: 42c34027efff5554ba635f11162ec552
+  - enabled: 1
+    path: Assets/Izaro Rubio Uribe/Scenes/Scene1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Izaro Rubio Uribe/Scenes/Scene2.unity
+    guid: 44f740eeb38510b4d84346fd98a310fc
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ef1b39295b4eae6469acc263247ab38e, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: afa6fc6f0a3166349bf97434b9d068a3, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6df225312d82340419e81cba9cce63b9, type: 2}
